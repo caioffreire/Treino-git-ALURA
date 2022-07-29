@@ -7,5 +7,5 @@ Página meramente para treino de git, commits, etc.
 Para marcar os códigos:
 
 ```
-muscle install
+node app.js
 ```
